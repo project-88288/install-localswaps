@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/chaiya_style/my_terraswaps/target/debug/build/typenum-5fdac89fd59158e4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/chaiya_style/my_terraswaps/target/debug/build/typenum-5fdac89fd59158e4/out/op.rs

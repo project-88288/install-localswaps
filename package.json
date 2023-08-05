@@ -1,0 +1,27 @@
+{
+  "name": "{{project-name}}",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node json2js.js",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@project-88288/opz-libs": "^0.1.17",
+    "@terra-money/terra.js": "^3.1.8",
+    "@terra-money/terrain": "^0.5.8",
+    "bluebird": "^3.7.2",
+    "js-base64": "^3.7.5",
+    "glob": "^7.2.0",
+    "husky": "^8.0.1",
+    "@azure/storage-blob": "^12.5.0",
+    "dotenv": "^16.0.3",
+    "jsdom": "^16.5.0",
+    "lint-staged": ">=10"
+  },
+  "workspaces": [
+    "frontend"
+  ],
+  "author": "{{authors}}",
+  "license": "ISC"
+}

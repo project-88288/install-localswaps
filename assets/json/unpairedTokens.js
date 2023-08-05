@@ -1,0 +1,19 @@
+module.exports = {
+  "localterra": {},
+  "mainnet": {
+    "MFV": "terra13lyzasysm32z904mxvkpx3mtpunqk4cm7mfxkzs24vrzw5zah60s03zrkj",
+    "MGJ": "terra1h35lj3kw44grdtqjw969cp5kz3eh4kmruqwvay8j4gmuyhkyc3hsvuy7eu",
+    "MGK": "terra189qv5dhpd5s7e0l5n5j0c4mejcef5l9tygq4patzg74yx0xlfkqqef58hl",
+    "MGY": "terra1l3rs9uc3hmc98drp9hs5mfak3c22c5csv46qfvkt65v7a6lsrynqrljv29",
+    "MGZ": "terra1atdjzu6ee6ukyyps0s7vufsz9j6dlw00lhcax6geddrxcyl54v8qras2f5",
+    "MHN": "terra1f777yyatjjf4uyc43kq8kqz05z2g7xzytkyvgst3cr6lwrpzg67q4yrj8f",
+    "MHO": "terra1hfdtedtnpff6q6wg4sqek0kccqu5yrvtyyqweqzrsajh85w0lq0qgj0dz5",
+    "NGI": "terra145lh0ke0njls4q2qqqdaf3nu44sd0ycv3eq43kr0sm8uvtcqjlpscr2yd0",
+    "NGX": "terra1ywyvm0pqjfxrt3ucf45rl7cxga72rjx9nw6f39p7c0f8qukfwk9s33xy4z",
+    "NHM": "terra12jtz69v84yqjrlhy9vg32ckxndvqfry5kglsd86y9er2nupy990q2vytg5",
+    "NIB": "terra1mgvdfqpzl7yufh23jshu3dksrcvhaa57n2sl3xxds39hpldl3rwqd2g7r9",
+    "NIQ": "terra1y2c7ezyv6t59z49jrykmh4carmx3sy26t90hh5zjzxy0urspl88sd4hve0"
+  },
+  "testnet": {},
+  "classic": {}
+}
